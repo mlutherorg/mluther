@@ -88,7 +88,7 @@ googleAnalytics = ""
   [params.landing]
 
     [params.landing.banner]
-      image = "img/church.png"
+      image = "church.png"
 
       [[params.landing.banner.button]]
         url = "/contact"
