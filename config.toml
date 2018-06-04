@@ -1,13 +1,16 @@
 baseURL = "http://example.org/"
+<<<<<<< HEAD
 languageCode = "en-us"
 title = "Martin Luther Evangelical Lutheran Church"
 theme = "alpha-church"
 
 enableEmoji = true
+=======
+>>>>>>> 55357e1c5a95e12d5383f8e71f2d5e03ec8a02db
 customCSS = ["", ""]
-
-# Enter your tracking code to enable Google Analytics
+enableEmoji = true
 googleAnalytics = ""
+<<<<<<< HEAD
 
 [taxonomies]
   tag = "tags"
@@ -186,3 +189,146 @@ googleAnalytics = ""
       icon = "fa-rss"
       icon_pack = "fas"
       link = "/index.xml"
+=======
+languageCode = "en-us"
+theme = "alpha-church"
+title = "Mluther"
+[[menu.main]]
+name = "Blog"
+parent = "Resources"
+url = "/posts"
+weight = 2
+[[menu.main]]
+name = "Leaders"
+parent = "About"
+url = "/leaders"
+weight = 2
+[[menu.main]]
+name = "Sermons"
+parent = "Resources"
+url = "/sermons"
+weight = 1
+[[menu.main]]
+name = "About Us"
+parent = "About"
+url = "/about"
+weight = 1
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 4
+[[menu.main]]
+name = "Resources"
+url = "#"
+weight = 3
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 2
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[params]
+author = "Mluther"
+bible_popups = true
+subtitle = "10151 Sappington Rd, St Louis, MO"
+title = "Martin Luther Evangelical Lutheran Church"
+[params.contact]
+confirm_page = "/contact_thanks"
+service = "netlify"
+[params.footer]
+copyright = "[CC0 (public domain)](http://creativecommons.org/publicdomain/zero/1.0/)"
+[params.landing.banner]
+image = "img/banner.jpg"
+[[params.landing.banner.button]]
+text = "Get in touch"
+type = "special"
+url = "/contact"
+[[params.landing.banner.button]]
+text = "Find out more"
+url = "/about"
+[params.landing.cta]
+heading = "Get in touch!"
+message = "We'd love to hear from you."
+[params.landing.feature_icons]
+enable = true
+[[params.landing.feature_icons.tile]]
+accent = "1"
+icon = "fa-hands-helping"
+icon_pack = "fas"
+text = "Growing people who serve our community."
+title = "Serve"
+[[params.landing.feature_icons.tile]]
+accent = "2"
+icon = "fa-users"
+icon_pack = "fas"
+text = "Meeting together to hear."
+title = "Meet"
+[[params.landing.feature_icons.tile]]
+accent = "5"
+icon = "fa-comments"
+icon_pack = "fas"
+text = "Speaking encouragement to one-another."
+title = "Speak"
+[[params.landing.feature_icons.tile]]
+accent = "3"
+icon = "fa-heartbeat"
+icon_pack = "fas"
+text = "Knowing Love. Being Loved."
+title = "Loved"
+[params.landing.feature_images]
+enable = true
+[[params.landing.feature_images.tile]]
+button_text = "Learn more"
+image = "img/freely-10057.jpg"
+text = "A church for the family."
+title = "Childrens' Ministry"
+url = "/kids"
+[[params.landing.feature_images.tile]]
+button_text = "Join a group today!"
+image = "img/freely-26905.jpg"
+text = "Want more during the week?"
+title = "Midweek Ministries"
+url = "#"
+[params.landing.services]
+map_location = "Cathédrale Notre-Dame de Paris"
+text = "We meet at 5 am and 2 pm at [6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris](https://www.openstreetmap.org/way/201611261)."
+title = "Church on Sunday"
+[params.map]
+latitude = "48.8530"
+longitude = "2.3498"
+zoom = "18"
+[params.podcast]
+category = "Religion & Spirituality"
+email = "test@example.com"
+image = "img/podcast-cover.jpg"
+sub_category = "Christianity"
+subtitle = ""
+summary = "Alpha-Church sermons, talks, messages—podcasted."
+title = "Listen to Alpha Church"
+[[params.links]]
+icon = "fa-twitter"
+icon_pack = "fab"
+link = "//twitter.com/"
+service = "Twitter"
+[[params.links]]
+icon = "fa-facebook"
+icon_pack = "fab"
+link = "//facebook.com/"
+service = "Facebook"
+[[params.links]]
+icon = "fa-podcast"
+icon_pack = "fas"
+link = "/sermons/index.xml"
+service = "Podcast"
+[[params.links]]
+icon = "fa-rss"
+icon_pack = "fas"
+link = "/index.xml"
+service = "Full RSS Feed"
+[taxonomies]
+preacher = "preachers"
+series = "series"
+tag = "tags"
+>>>>>>> 55357e1c5a95e12d5383f8e71f2d5e03ec8a02db
