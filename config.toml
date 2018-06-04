@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Mluther"
+title = "Martin Luther Evangelical Lutheran Church"
 theme = "alpha-church"
 
 enableEmoji = true
@@ -23,9 +23,19 @@ googleAnalytics = ""
     weight = 1
 
   [[menu.main]]
+    name = "Sermons"
+    url = "/sermons"
+    weight = 2
+
+  [[menu.main]]
+    name = "News"
+    url = "/posts"
+    weight = 3
+
+  [[menu.main]]
     name = "About"
     url = "about"
-    weight = 2
+    weight = 4
 
   [[menu.main]]
     name = "About Us"
@@ -33,39 +43,17 @@ googleAnalytics = ""
     url = "/about"
     weight = 1
 
-  [[menu.main]]
-    name = "Leaders"
-    parent = "About"
-    url = "/leaders"
-    weight = 2
-
-  [[menu.main]]
-    name = "Resources"
-    url = "#"
-    weight = 3
-
-  [[menu.main]]
-    name = "Sermons"
-    url = "/sermons"
-    parent = "Resources"
-    weight = 1
-
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts"
-    parent = "Resources"
-    weight = 2
 
   [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 4
+    weight = 5
 
 # Paramaters for the whole site
 [params]
-  title = "Alpha Church"
-  subtitle = "Another Church Theme"
-  author = "Daniel Saunders"
+  title = "Martin Luther Evangelical Lutheran Church"
+  subtitle = "10151 Sappington Rd, St Louis, MO"
+  author = "Mluther"
 
   bible_popups = true
 
@@ -80,8 +68,8 @@ googleAnalytics = ""
 
   [params.map]
     # For Open Street Map widgets
-    latitude = "48.8530"
-    longitude = "2.3498"
+    latitude = "38.51465"
+    longitude = "-90.38083"
     zoom = "18"
 
   [params.contact]
@@ -100,7 +88,7 @@ googleAnalytics = ""
   [params.landing]
 
     [params.landing.banner]
-      image = "img/banner.jpg"
+      image = "img/church.png"
 
       [[params.landing.banner.button]]
         url = "/contact"
@@ -114,8 +102,8 @@ googleAnalytics = ""
     #Details for the box below the banner
     [params.landing.services]
       title = "Church on Sunday"
-      text = "We meet at 5 am and 2 pm at [6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris](https://www.openstreetmap.org/way/201611261)."
-      map_location = "Cathédrale Notre-Dame de Paris"
+      text = "We meet at 09:00 AM at [10151 Sappington Rd, St Louis, MO](https://www.openstreetmap.org/way/28894303#map=19/38.51476/-90.38078)."
+      map_location = ""
 
     [params.landing.feature_icons]
       #These feature icons look best if there's an even number of them.
