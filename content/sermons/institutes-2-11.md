@@ -1,14 +1,49 @@
 ---
-title: "John Calvin: Institutes 2 11"
-passage: "John 3:16"
-date: 2018-05-03T20:12:30+10:00
-audio: "http://ia801403.us.archive.org/29/items/institutes_christian_religion2_1003_librivox/institutesofchristianreligion2_11_calvin_64kb.mp3"
-audio_duration: 22:23
-audio_size: 10748346
-feature_image: ""
-preachers: ["John Calvin"]
-series: ["Test"]
-tags: ["theology","redemption", "historical"]
+title: " YOUR PRIEST PRAYS FOR YOU"
+passage: John 17:11b-19
+date: 2018-05-13 00:00:00 +0000
+audio: ''
+audio_duration: ''
+audio_size: ''
+feature_image: ''
+preachers: []
+series: []
+tags: []
 draft: false
+
 ---
-Public Domain recording from [librivox](https://librivox.org/institutes-of-the-christian-religion-book-two-by-john-calvin/)
+Greeting: We do not have a high priest who is unable to sympathize with our weaknesses, but we have one who has been tempted in every way, just as we are – yet was without sin.  Let us then approach the throne of grace with confidence so that we may receive mercy and find grace to help us in our time of need.
+
+**Text: 11) Holy Father, protect them by the power of Your name – the name You gave Me – so that they may be one as We are one.  12) While I was with them, I protected them and kept them safe by that name You gave Me.  None has been lost except the one doomed to destruction so that Scripture would be fulfilled.  13) I am coming to You now, but I say these things while I am still in the world. So that they may have the full measure of My joy within them.  14) I have given them Your word and the world has hated them, for they are not of the world any more than I am of the world.  15) My prayer is not that You take them out of the world but that You protect them from the evil one.  16) They are not of the world even as I am not of it.  17) Sanctify them by the truth; Your word is truth.  18) As You sent Me into the world, I have sent them into the world.  19) For them I sanctify Myself, that they too may be truly sanctified.**
+
+Introduction: Dear brothers and sisters in our Lord Jesus Christ:   Your priest is praying for you.  Now, if that seems like an unusual way for a Lutheran to talk, understand that the priest we are discussing is none other than Jesus Christ, who is not only our priest, but is our great high priest.   As the ascended Lord, one of the things He does continually is to pray for us.
+
+I have always found it comforting to know that one other or a number of other people are praying for me.   Perhaps, you find that a great comfort as well.  To think that there are people who care enough to take your needs to our gracious and powerful God warms and thrills our hearts.   What is even more helpful is to actually overhear what someone else says as they pray for you.   Very often, a person will say: “I am praying for you” or “I will pray for you.”   But then we never get in on the actual conversation that person has with God.   We don’t know what things they are bringing to God in the way of thanks and request for us.  It’s left as a kind of general mystery.
+
+In the Gospel lesson for today, we not only learn that our Savior and Lord prays for us, we also get to listen to what He prays for us.   We would expect that the gracious Savior who gave His life for us would bring loving requests to God on our behalf.  We would expect that our all-knowing Lord who understands our every need would bring wise requests to God on our behalf.   Our high priest’s prayer for us does not disappoint.  Jesus prays for things that are very important for us.   Listen carefully as you hear the words Your Priest Prays For You.
+
+**1. He Prays For Your Protection From Evil**
+
+In Jesus’ prayer for us, He deals with two great subjects.  One of them if our protection from evil.  Listen to His requests: 11) Holy Father, protect them by the power of Your name – the name You gave Me – so that they may be one as We are one.  12) While I was with them, I protected them and kept them safe by that name You gave Me.   13) I am coming to You now, but I say these things while I am still in the world so that they may have the full measure of My joy within them.  14) I have given them Your word and the world has hated them, for they are not of the world any more than I am of the world.  15) My prayer is not that You take them out of the world but that You protect them from the evil one.  16) They are not of the world even as I am not of it. 
+
+With these words, Jesus requests our protection.  We notice the emphasis is more on spiritual protection than on physical protection.   When some people pray for protection, they focus more on the physical.  Their prayers go something like this: “Dear Lord, please protect me from harm.  Keep me healthy and safe.  Don’t let me get sick or injured.  Don’t let me suffer loss of money or property.”  It’s not wrong to pray for these things, but our prayers shouldn’t be limited to things that would be included in a health or homeowners insurance policy.
+
+Jesus goes deeper in His prayer for our protection.  He prays about the things that really threaten and endanger us.  He prays for protection against the hatred of the sinful world and the deadly designs of the devil.  Those enemies can do real damage to us.   They do not so much threaten our temporary physical comforts as much as they threaten the eternal, spiritual welfare of our souls.  The sinful world (that is the people, philosophies and powers that are in defiant opposition to God) seeks to entice or intimidate people to withdraw from God and join them in their rebellion against God.   I read about a British intellectual named A.T. Watson, a brilliant man, who recently returned to the Christian faith that he had previously abandoned.   He explained that when he was a younger man, the message he got from those around him was that it wasn’t “cool to be a Christian,” so he gave it up.   That’s the powerful influence of the hateful world at work.  The devil also seeks to tempt and mislead people to turn from God and join Him in the unbelief that leads to damnation.   It is against these powerful spiritual forces that we truly need protection.
+
+In Jesus’ prayer, He shares the key to our safety against the world and the devil.  He says: “Protect them by the power of Your name – the name You gave Me” and  “I have given them Your word.”   God’s name, that is, all that God has revealed to us, or God’s Word is what keeps us safe against the lies and attacks of the sinful world and Satan.  Our Savior prays that God will bless us through our knowledge and use of His Word.   God’s Word is the powerful truth and force that God has given us to defeat the devil, the sinful world and our own sinful nature.   It is our strength and protection.   Martin Luther commented on this when he said: “Yes, indeed, the Word is the power of God which causes the devil the deepest anguish but strengthens, comforts and help us beyond measure.”
+
+Your priest has been praying and even now prays for your protection against the hateful world and the devious devil.  He prays for the blessing of God’s Word in your soul and on your life.   He knows the deadly dangers you face – the pressures, the problems, the trials, the temptations, the sinful attractions, the wicked intimidations.   He wants you to be safe.  He has given you the Word, which is the power of God to save and strengthen.  He prays fervently and faithfully that you will be protected from the true evils of life.
+
+**2. He Prays For Your Dedication For Service**
+
+The second subject for which Your Priest prays for you is your dedication for service to God.  He says: 17) Sanctify them by the truth; Your word is truth.  18) As You sent Me into the world, I have sent them into the world.  19) For them I sanctify Myself, that they too may be truly sanctified.
+
+By paying the price for our salvation, Jesus has made us His own.   We are His to love, enjoy, protect and direct.    Our Lord has plans for us.   He has a mission for us to fulfill in our lives.   He sends us out to do it.  He wants us to succeed at it.   He knows it will be hard to do.  So He prays for our success, especially for our dedication to serve.
+
+The word He uses several times in this part of the prayer is the word “sanctify.”  He asks the Father: “Sanctify them.”   He announces: “I sanctify Myself.”  He desires that we “be truly sanctified.”  We often define the word “sanctify” as “to make holy.”   That surely is a helpful definition.   Through the Word, the Holy Spirit sanctifies us, that is He works to transform us to be holier people.   At the heart of the word “sanctify” is also the idea of movement away from sin and toward God.  When God sanctifies us, He removes us farther and farther from the power and influence of sin and draws us closer and closer to the power and influence of Himself.   As God sanctifies us, He works to make us people who are less under the influence of sin and more under the loving guidance of Himself.
+
+Under God’s loving, strong influence, we can fulfill our mission and service to God.   When we think about the things God wants us to do in life, we are to think about more than the list of duties God has given us.   God wants us to do many things.  Among those things may be to eat properly, exercise regularly, practice good hygiene, get enough rest, work hard and faithfully at our job, earn money, care for our family, help others in need, share God’s Word, support God’s work financially, study the Bible, attend worship and communion regularly, etc.  But our mission is not only to do those things, but to do them in the proper spirit – a spirit of love and thanks and service to God.   As Paul writes in one of his letters: “Whether you eat, or drink or whatever you do, do it all to the glory of God.” 
+
+Carrying out our life’s mission is challenging and often difficult.   We meet challenges and discouragements so often.  We see so many people living, not for God, but just for themselves – and they seem to be having a good time doing so.  It is easy to think about giving up and stop trying to live a life of joyful, faithful service.   The One who prays for us to have a proper dedication for service is also the One who lived such a life for us.   Our Lord reminds us: “I sanctify Myself.”   For our sake and our salvation, Jesus kept a proper spirit of self-giving, thankful service through His earthly life.  He not only talked about it.  He actually did it for us.   He did it so that we could take heart from His work and His words for our mission.
+
+Our priest’s prayers are loving, sincere, and powerful.   How encouraging they are to us.  We face great dangers as God’s people.   We have a great mission as His people.   It’s more than we can do in our own power.  But our Savior reminds us.  We don’t rely on our own power.   We rely on God’s.  So we struggle, but we will not fail.   Our priest is praying for us.  Listen to what He asks.  Take comfort and courage.  Your Priest, Your personal Priest, Your Savior and Lord, prays for you.  He prays for what you need.   He will make sure that you succeed.   And to His prayers, we joyfully add our – “Amen.”
