@@ -1,181 +1,129 @@
 baseURL = "http://mluther.netlify.com"
-languageCode = "en-us"
-title = "Martin Luther Evangelical Lutheran Church"
-theme = "alpha-church"
-
-enableEmoji = true
 customCSS = ["", ""]
-
-# Enter your tracking code to enable Google Analytics
+enableEmoji = true
 googleAnalytics = ""
-
-[taxonomies]
-  tag = "tags"
-  preacher = "preachers"
-  series = "series"
-
-#This theme can generate a multi-level theme.
-#Use the weight= to specify the order of menu items, and the parent= to create a submenu item.
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Sermons"
-    url = "/sermons"
-    weight = 2
-
-  [[menu.main]]
-    name = "News"
-    url = "/posts"
-    weight = 3
-
-  [[menu.main]]
-    name = "About"
-    url = "about"
-    weight = 4
-
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact"
-    weight = 5
-
-# Paramaters for the whole site
+languageCode = "en-us"
+theme = "alpha-church"
+title = "Martin Luther Evangelical Lutheran Church"
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Sermons"
+url = "/sermons"
+weight = 2
+[[menu.main]]
+name = "News"
+url = "/posts"
+weight = 3
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 5
 [params]
-  title = "Martin Luther Evangelical Lutheran Church"
-  subtitle = "10151 Sappington Rd, St Louis, MO"
-  author = "Mluther"
-
-  bible_popups = true
-
-  [params.podcast]
-    title = "Listen to Alpha Church"
-    subtitle = ""
-    summary = "Alpha-Church sermons, talks, messages—podcasted."
-    email = "test@example.com"
-    image = "img/podcast-cover.jpg"
-    category = "Religion & Spirituality"
-    sub_category = "Christianity"
-
-  [params.map]
-    # For Open Street Map widgets
-    latitude = "38.51465"
-    longitude = "-90.38083"
-    zoom = "18"
-
-  [params.contact]
-    #Use this section to automate contact form.
-    #Set service to either "netlify" or "formspree"
-    #For formspree, please setup an account at https://formspree.io/
-    #For netlify, please read https://www.netlify.com/docs/form-handling/
-    #
-    #If you use netlify, you'll need to set the confirm_page value (or elase users will see a generic netlify response)
-    #If you use formspree, you'll need to set your formspree email address.
-    service = "netlify"
-    confirm_page = "/contact_thanks"
-    # formspree_email=""
-
-  #Paramaters for the home/landing page
-  [params.landing]
-
-    [params.landing.banner]
-      image = "church.png"
-
-      [[params.landing.banner.button]]
-        url = "/contact"
-        text = "Get in touch"
-        type = "special"
-
-        [[params.landing.banner.button]]
-        url = "/about"
-        text = "Find out more"
-
-    #Details for the box below the banner
-    [params.landing.services]
-      title = "Church on Sunday"
-      text = "We meet at 09:00 AM at [10151 Sappington Rd, St Louis, MO](https://www.openstreetmap.org/way/28894303#map=19/38.51476/-90.38078)."
-      map_location = ""
-
-    [params.landing.feature_icons]
-      #These feature icons look best if there's an even number of them.
-      enable = true
-
-      #Accent is a colour defined in the CSS file. Choose between 1 and 5
-      [[params.landing.feature_icons.tile]]
-        icon = "fa-hands-helping"
-        icon_pack = "fas"
-        accent = "1"
-        title = "Serve"
-        text = "Growing people who serve our community."
-
-      [[params.landing.feature_icons.tile]]
-        icon = "fa-users"
-        icon_pack = "fas"
-        accent = "2"
-        title = "Meet"
-        text = "Meeting together to hear."
-
-      [[params.landing.feature_icons.tile]]
-        icon = "fa-comments"
-        icon_pack = "fas"
-        accent = "5"
-        title = "Speak"
-        text = "Speaking encouragement to one-another."
-
-      [[params.landing.feature_icons.tile]]
-        icon = "fa-heartbeat"
-        icon_pack = "fas"
-        accent = "3"
-        title = "Loved"
-        text = "Knowing Love. Being Loved."
-
-    [params.landing.feature_images]
-      #These feature images look best if there's an even number of them.
-      enable = true
-
-      [[params.landing.feature_images.tile]]
-        image = "img/freely-10057.jpg"
-        title = "Childrens' Ministry"
-        text = "A church for the family."
-        url = "/kids"
-        button_text = "Learn more"
-
-      [[params.landing.feature_images.tile]]
-        image = "img/freely-26905.jpg"
-        title = "Midweek Ministries"
-        text = "Want more during the week?"
-        url = "#"
-        button_text="Join a group today!"
-
-    [params.landing.CTA]
-      heading = "Get in touch!"
-      message = "We'd love to hear from you."
-
-    [params.footer]
-      copyright = "[CC0 (public domain)](http://creativecommons.org/publicdomain/zero/1.0/)"
-
-    [[params.links]]
-      service = "Twitter"
-      icon = "fa-twitter"
-      icon_pack = "fab"
-      link = "//twitter.com/"
-
-    [[params.links]]
-      service = "Facebook"
-      icon = "fa-facebook"
-      icon_pack = "fab"
-      link = "//facebook.com/"
-
-    [[params.links]]
-      service = "Podcast"
-      icon = "fa-podcast"
-      icon_pack = "fas"
-      link = "/sermons/index.xml"
-
-    [[params.links]]
-      service = "Full RSS Feed"
-      icon = "fa-rss"
-      icon_pack = "fas"
-      link = "/index.xml"
+author = "Mluther"
+bible_popups = true
+subtitle = "10151 Sappington Rd, St Louis, MO"
+title = "Martin Luther Evangelical Lutheran Church"
+[params.contact]
+confirm_page = "/contact_thanks"
+service = "netlify"
+[params.footer]
+copyright = "[CC0 (public domain)](http://creativecommons.org/publicdomain/zero/1.0/)"
+[params.landing.banner]
+image = "church.png"
+[[params.landing.banner.button]]
+text = "Get in touch"
+type = "special"
+url = "/contact"
+[[params.landing.banner.button]]
+text = "Find out more"
+url = "/about"
+[params.landing.cta]
+heading = "Get in touch!"
+message = "We'd love to hear from you."
+[params.landing.feature_icons]
+enable = true
+[[params.landing.feature_icons.tile]]
+accent = "1"
+icon = "fa-hands-helping"
+icon_pack = "fas"
+text = "Growing people who serve our community."
+title = "Serve"
+[[params.landing.feature_icons.tile]]
+accent = "2"
+icon = "fa-users"
+icon_pack = "fas"
+text = "Meeting together to hear."
+title = "Meet"
+[[params.landing.feature_icons.tile]]
+accent = "5"
+icon = "fa-comments"
+icon_pack = "fas"
+text = "Speaking encouragement to one-another."
+title = "Speak"
+[[params.landing.feature_icons.tile]]
+accent = "3"
+icon = "fa-heartbeat"
+icon_pack = "fas"
+text = "Knowing Love. Being Loved."
+title = "Loved"
+[params.landing.feature_images]
+enable = true
+[[params.landing.feature_images.tile]]
+button_text = "Learn more"
+image = "img/freely-10057.jpg"
+text = "A church for the family."
+title = "Childrens' Ministry"
+url = "/kids"
+[[params.landing.feature_images.tile]]
+button_text = "Join a group today!"
+image = "img/freely-26905.jpg"
+text = "Want more during the week?"
+title = "Midweek Ministries"
+url = "#"
+[params.landing.services]
+map_location = "38.51457,-90.38086"
+text = "We meet at 09:00 AM at [10151 Sappington Rd, St Louis, MO](https://www.openstreetmap.org/way/28894303#map=19/38.51476/-90.38078)."
+title = "Church on Sunday"
+[params.map]
+latitude = "38.51465"
+longitude = "-90.38083"
+zoom = "18"
+[params.podcast]
+category = "Religion & Spirituality"
+email = "test@example.com"
+image = "img/podcast-cover.jpg"
+sub_category = "Christianity"
+subtitle = ""
+summary = "Alpha-Church sermons, talks, messages—podcasted."
+title = "Listen to Alpha Church"
+[[params.links]]
+icon = "fa-twitter"
+icon_pack = "fab"
+link = "//twitter.com/"
+service = "Twitter"
+[[params.links]]
+icon = "fa-facebook"
+icon_pack = "fab"
+link = "//facebook.com/"
+service = "Facebook"
+[[params.links]]
+icon = "fa-podcast"
+icon_pack = "fas"
+link = "/sermons/index.xml"
+service = "Podcast"
+[[params.links]]
+icon = "fa-rss"
+icon_pack = "fas"
+link = "/index.xml"
+service = "Full RSS Feed"
+[taxonomies]
+preacher = "preachers"
+series = "series"
+tag = "tags"
