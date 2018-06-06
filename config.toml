@@ -106,7 +106,7 @@ title = "Listen to Alpha Church"
 [[params.links]]
 icon = "fa-twitter"
 icon_pack = "fab"
-link = "//twitter.com/"
+link = "https://twitter.com/MlutherMO"
 service = "Twitter"
 [[params.links]]
 icon = "fa-facebook"
