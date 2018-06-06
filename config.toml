@@ -34,7 +34,7 @@ title = "Martin Luther Evangelical Lutheran Church"
 confirm_page = "/contact_thanks"
 service = "netlify"
 [params.footer]
-copyright = "[CC0 (public domain)](http://creativecommons.org/publicdomain/zero/1.0/)"
+copyright = "Martin Luther Evangelical Lutheran Church @2018"
 [params.landing.banner]
 image = "church.png"
 [[params.landing.banner.button]]
