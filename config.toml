@@ -111,7 +111,7 @@ service = "Twitter"
 [[params.links]]
 icon = "fa-facebook"
 icon_pack = "fab"
-link = "//facebook.com/"
+link = "https://www.facebook.com/mlutherstl/"
 service = "Facebook"
 [[params.links]]
 icon = "fa-podcast"
