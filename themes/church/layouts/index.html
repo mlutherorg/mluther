@@ -26,7 +26,7 @@
 						<section class="box special">
 							{{ range first 1 (where .Data.Pages.ByDate "Section" "sermons").Reverse }}
 							<span class="image featured">
-								{{ if eq .Params.feature_image true }}
+								{{ if .Params.feature_image }}
 								<img src="{{ .Params.feature_image | absURL }}" alt="">{{ else }}
 							<img src="/img/sermon.jpg" alt=""> {{ end }}</span>
 							<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
