@@ -24,12 +24,25 @@
 					<div class="row">
 						<div class="7u 12u(narrower)">
 							<section class="box special">
+									{{ range first 1 (where .Data.Pages.ByPublishDate "Section" "sermons") }}
+									
 								<span class="image featured"><img src="https://picsum.photos/200/120" alt="" /></span>
-								<h3>Lastest Sermon</h3>
-								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-								<ul class="actions">
+								<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+								<p>{{ .Summary }}</p>
+								<time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+								{{ if .Truncated }}
+								<div>
+								  <a href="{{ .RelPermalink }}">Read More…</a>
+								</div>
+								{{ end }}
+
+								<!-- <ul class="actions">
 									<li><a href="#" class="button alt">Learn More</a></li>
-								</ul>
+								</ul> -->
+
+								{{ end }}
+
+
 							</section>
 						</div>
 						<!-- <div class="6u 12u(narrower)">
