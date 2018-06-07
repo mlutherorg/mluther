@@ -24,7 +24,7 @@
 					<div class="row">
 						<div class="7u 12u(narrower)">
 						<section class="box special">
-							{{ range first 1 (where .Data.Pages.ByPublishDate "Section" "sermons").Reverse }}
+							{{ range first 1 (where .Data.Pages.ByDate "Section" "sermons").Reverse }}
 							<span class="image featured">
 								{{ if eq .Params.feature_image true }}
 								<img src="{{ .Params.feature_image | absURL }}" alt="">{{ else }}
