@@ -3,7 +3,7 @@ customCSS = ["", ""]
 enableEmoji = true
 googleAnalytics = ""
 languageCode = "en-us"
-theme = "alpha-church"
+theme = "church"
 title = "Martin Luther Evangelical Lutheran Church"
 [[menu.main]]
 name = "Home"
