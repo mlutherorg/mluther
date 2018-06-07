@@ -19,14 +19,20 @@
 						</header>
 						<!--<span class="image featured"><img src="{{.Site.Params.Landing.Feature.image }}" alt="" /></span>-->
 						<!--This is where I need to put in Map magic-->
-						{{ partial "map" . }}
+						<!-- {{ partial "map" . }} -->
 					</section>
-
-					<section class="box special">
-						<div class="box">lastest Sermon</div>
-						<div class="box">Upcoming events</div>
-					</section>
-
+					<div class="row">
+						<div class="6u 12u(narrower)">
+							<section class="box special">
+								<div class="box">lastest Sermon</div>
+							</section>
+						</div>
+						<div class="6u 12u(narrower)">
+							<section class="box special">
+								<div class="box">Upcoming events</div>
+							</section>
+						</div>
+					</div>
 
 					{{ end }}
 
