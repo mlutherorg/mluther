@@ -23,27 +23,21 @@
 					</section>
 					<div class="row">
 						<div class="7u 12u(narrower)">
-							<section class="box special">
-									{{ range first 1 (where .Data.Pages.ByPublishDate "Section" "sermons") }}
-									
-								<span class="image featured"><img src="https://picsum.photos/200/120" alt="" /></span>
-								<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-								<p>{{ .Summary }}</p>
-								<time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
-								{{ if .Truncated }}
-								<div>
-								  <a href="{{ .RelPermalink }}">Read More…</a>
-								</div>
-								{{ end }}
-
-								<!-- <ul class="actions">
-									<li><a href="#" class="button alt">Learn More</a></li>
-								</ul> -->
-
-								{{ end }}
-
-
-							</section>
+						<section class="box special">
+							{{ range first 1 (where .Data.Pages.ByPublishDate "Section" "sermons") }}
+							<span class="image featured">
+								{{ if eq .Params.feature_image true }}
+								<img src="{{ .Params.feature_image | absURL }}" alt="">{{ else }}
+							<img src="/img/sermon.jpg" alt=""> {{ end }}</span>
+							<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+							<p>{{ .Summary }}</p>
+							<time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+							{{ if .Truncated }}
+							<div>
+								<a href="{{ .RelPermalink }}">Read More…</a>
+							</div>
+							{{ end }} {{ end }}
+						</section>
 						</div>
 						<!-- <div class="6u 12u(narrower)">
 							<section class="box special">
@@ -53,7 +47,6 @@
 									<li>Sagittis adipiscing lorem eleifend.</li>
 									<li>Felis enim feugiat dolore viverra.</li>
 								</ul>
-								
 							</section>
 						</div> -->
 						<div class="5u 12u(narrower)">
