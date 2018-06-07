@@ -14,7 +14,6 @@ min_version = "0.38"
   name = "Daniel Saunders"
   homepage = "https://github.com/funkydan2"
  
- 
 # If porting an existing theme
 [original]
   name = ""
