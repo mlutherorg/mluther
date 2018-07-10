@@ -4,11 +4,19 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-  sermons:
-    default_front_matter_template: sermons
+- path: content
+  label: Pages
+  create: all
+- path: content/posts
+  label: Posts
+  create: all
+- path: content/sermons
+  label: Sermons
+  create: all
+  default_front_matter_template: sermons
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
-version: 0.38.1
+version: '0.43'
